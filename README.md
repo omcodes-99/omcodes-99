@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently a student<br>👯 I’m looking to collaborate on Open Source<br>🤝 I’m looking for help with Startups<br>🌱 I’m currently learning Java Script and databases<br>💬 Ask me about games<br>⚡ Fun fact i love music travellig and games
+
 
 
 ## 🌐 Socials:
